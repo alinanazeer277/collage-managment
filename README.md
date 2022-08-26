@@ -2,12 +2,17 @@
 student name
 student id no
 student department
-student course
-teacher id
-staff room
+staff
 office
-labs
-libary
-cs department
-e department
-auto mobile depatment
+risks:
+when the students will not pay fees it is loss for adminstartion
+facilities:
+all teachers will teach good 
+courses:
+cs
+ec
+automobile
+iti
+teachers staff
+computers are available for lab 
+and to pratice
